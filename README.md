@@ -31,8 +31,8 @@ Update the configuration files to include your Discord bot credentials and other
   "guildId": "YOUR_GUILD_ID",
   "token": "YOUR_BOT_TOKEN",
   "channelId": "YOUR_CHANNEL_ID",
-  "username": "YOUR_USERNAME",
-  "password": "YOUR_PASSWORD"
+  "api_key": "YOUR_CLEAR_API_TOKEN",
+  "event_id": "YOUR_CODEDAY_EVENT_ID"
 }
 ```
 
@@ -45,4 +45,3 @@ npm start
 ```
 
 ## I hope this helps you keep track of the registrations at your event ! Happy hacking.
-
