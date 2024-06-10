@@ -1,12 +1,12 @@
-# Discord Registration Count Bot
+# CodeDay Kolkata Registration Count Bot
 
 ## Motivation
 
-This project automates the process of tracking registration counts for an event management dashboard named "clear." It utilizes a Discord bot to notify server members whenever there is a new registration. Additionally, it provides a slash command `/tickets` to retrieve the current registration count on demand.
+This project automates the process of tracking registration counts for CodeDay Kolkata, a 24 hour long Coding Event organized in Kolkata. It utilizes a Discord bot to notify server members whenever there is a new registration. Additionally, it provides a slash command `/tickets` to retrieve the current registration count on demand.
 
 ## Setup
 
-Follow these steps to set up and deploy the Discord Registration Count Bot:
+Follow these steps to set up and deploy the CodeDay Registration Count Bot:
 
 ```bash
 # Clone the Repository
@@ -31,6 +31,7 @@ Update the configuration files to include your Discord bot credentials and other
   "guildId": "YOUR_GUILD_ID",
   "token": "YOUR_BOT_TOKEN",
   "channelId": "YOUR_CHANNEL_ID",
+  //CodeDay Volunteer Credentials
   "username": "YOUR_USERNAME",
   "password": "YOUR_PASSWORD"
 }
@@ -44,5 +45,5 @@ Start the bot by running the `bot.js` file:
 npm start
 ```
 
-## Enjoy using your Discord Registration Count Bot!
+## I hope this helps you keep track of the registrations at your event ! Happy hacking.
 
