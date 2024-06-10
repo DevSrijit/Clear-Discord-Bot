@@ -1,0 +1,8 @@
+{
+  "clientId": "YOUR_CLIENT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "token": "YOUR_BOT_TOKEN",
+  "channelId": "YOUR_CHANNEL_ID",
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD"
+}
