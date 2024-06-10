@@ -31,7 +31,6 @@ Update the configuration files to include your Discord bot credentials and other
   "guildId": "YOUR_GUILD_ID",
   "token": "YOUR_BOT_TOKEN",
   "channelId": "YOUR_CHANNEL_ID",
-  //CodeDay Volunteer Credentials
   "username": "YOUR_USERNAME",
   "password": "YOUR_PASSWORD"
 }
