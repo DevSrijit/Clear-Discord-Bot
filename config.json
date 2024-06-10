@@ -3,7 +3,6 @@
   "guildId": "YOUR_GUILD_ID",
   "token": "YOUR_BOT_TOKEN",
   "channelId": "YOUR_CHANNEL_ID",
-  //CodeDay Account Credentials
-  "username": "YOUR_USERNAME",
+  "username": "YOUR_USERNAME", //CD Acct Creds.
   "password": "YOUR_PASSWORD"
 }
